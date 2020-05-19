@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+.bg-pink {
+  width: 100%;
+  height: auto;
+  background-color: #eaadce;
+}
+.bg-blue {
+  width: 100%;
+  height: auto;
+  background-color: #3ea0dd;
+}
+h1 {
+  font-size: 5.5vw;
+  font-family: ヒラギノ角ゴシック;
+}
+h2 {
+  font-size: 4vw;
+  font-family: ヒラギノ角ゴシック;
+}
+
+.text-center {
+  text-align: center;
+}
+.w-100 {
+  width: 100%;
+  height: auto;
+  margin-bottom: -6px;
+}
+.text-area {
+  padding: 0.25vw 2.5%;
+}
+.contents-space-between {
+  display: flex;
+  justify-content: space-between;
+}
+.img-size {
+  width: 32%;
+  height: auto;
+}
+footer {
+  font-family: ヒラギノ角ゴシック;
+  font-size: 2vw;
+  width: 100%;
+  height: auto;
+  background-color: #c4c4c4;
+  padding: 300px 0;
+}
+.text-propaty {
+  text-align: center;
+  align-items: center;
+  color: black;
+}
