@@ -4,11 +4,13 @@
   width: 100%;
   height: auto;
   background-color: #eaadce;
+  padding: 5px 0;
 }
 .bg-blue {
   width: 100%;
   height: auto;
   background-color: #3ea0dd;
+  padding: 5px 0;
 }
 h1 {
   font-size: 5.5vw;
